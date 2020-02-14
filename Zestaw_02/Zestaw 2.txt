@@ -1,0 +1,36 @@
+2.0. Dla ka¿dej z poni¿szych funkcji napisaæ program sprawdzaj¹cy jej dzia³anie. W przypadku zadañ z tablicami sprawdziæ dzia³anie na tablicach o wymiarach 10, 100 lub wymiarze wprowadzonym przez u¿ytkownika, tam gdzie to mo¿liwe. Obs³u¿yæ przypadki niew³aœciwego u¿ycia, zg³aszaæ u¿ytkownikowi co zrobi³ Ÿle oraz dane jakiego typu powinien wprowadziæ.
+
+2.1. Napisaæ funkcjê, która dla ³añcucha znaków podanego jako parametr zamieni wszystkie spacje na znaki podkreœlenia.
+
+2.2. Napisaæ funkcjê, która sprawdzi w której æwiartce uk³adu wspó³rzêdnych (x,y) le¿y podany przez u¿ytkownika punkt. U¿ytkownik przekazuje dwa punkty x, y typu float a funkcja zwraca int od 0 do 4, gdzie 0 oznacza ¿e punkt le¿y na któreœ z osi wspó³rzêdnych a 1-4 to numer æwiartki.
+
+2.3. Napisaæ funkcjê, która z podanych przez u¿ytkownika dwóch liczb (int min, int max) obliczy pomiêdzy liczbami min i max:
+- sumê wszystkich liczb 
+- sumê wszystkich liczb nieparzystych
+- sumê wszystkich liczb parzystych
+- sumê wszystkich liczb podzielnych przez 3
+
+2.4. Napisaæ funkcjê, która korzystaj¹c z sita Eratostenesa sprawdzi czy podana przez u¿ytkownika liczba jest liczb¹ pierwsz¹.
+
+2.5. Napisaæ funkcjê, która wyznaczy najmniejsz¹ wspóln¹ wielokrotnoœæ dwóch podanych przez u¿ytkownika liczb ca³kowitych.
+
+2.6. Napisaæ funkcjê, która wylosuje 10 liczb ca³kowitych i umieœci je w tablicy a nastêpnie wyœwietli umieszczone w tablicy liczby oraz obliczy:
+- iloczyn wszystkich liczb,
+- iloczyn wszystkich liczb parzystych,
+- iloczyn wszystkich liczb nieparzystych,
+- liczbê liczb mniejszych i wiêkszych od zera
+
+2.7. Napisaæ funkcjê int maxTab(int t[N], int n), która dla podanej przez u¿ytkownika tablicy o wymiarze n (tablicê o rozmiarze N pomniejszamy do rozmiaru n) zwróci wartoœæ najwiêkszego elementu. n - to liczba elementów tablicy, N - maksymalny rozmiar tablicy zdefiniowany za pomoc¹ dyrektywy #define. Funkcja ma sprawdzaæ czy n <= N.
+
+2.8. Napisaæ funkcjê int ilePodzielnychPrzezX(int tab, int X), która sprawdzi ile liczb w tablicy jest podzielnych przez X.
+
+2.9. Napisaæ funkcjê, która przeskaluje przekazan¹ jej tablicê do przedzia³u <0,1>.
+
+2.10. Napisaæ program, który z tablicy o rozmiarach N na M wype³nionej wygenerowanymi liczbami oraz wczytanymi od u¿ytkownika liczbami n i m sprawdzi czy (n<=N, m<=M) znajdzie element minimalny:
+- ca³ej tablicy
+- tablicy pomniejszonej do rozmiarów n na m
+- ka¿dej kolumny
+- ka¿dego wiersza
+- g³ównej przek¹tnej
+
+2.11. Napisaæ grê w zgadywanie. Na pocz¹tku komputer losuje liczbê a u¿ytkownik podaje liczbê i dostaje odpowiedŸ: "zgad³eœ", "za du¿o", "za ma³o". Nastêpnie zgaduje komputer i wyœwietlana jest informacja jak¹ liczbê wybra³ oraz czy jest za du¿a, za ma³a lub czy zgad³ (komputer losuje liczby z przedzia³u wyznaczonego na podstawie poprzednich odpowiedzi np. dla przedzia³u <0,100> komputer wylosowa³ 15 i dosta³ odpowiedŸ "za ma³o" to w nastêpnym losowaniu bêdzie losowa³ z przedzia³u <15,100>. Gra ma trwaæ do momentu zgadniêcia.

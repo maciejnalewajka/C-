@@ -1,0 +1,25 @@
+3.0. Dla ka¿dej z poni¿szych funkcji napisaæ program sprawdzaj¹cy jej dzia³anie. Obs³u¿yæ przypadki niew³aœciwego u¿ycia, zg³aszaæ u¿ytkownikowi co zrobi³ Ÿle oraz dane jakiego typu powinien wprowadziæ.
+
+3.1. Napisaæ funkcjê gdzie jako parametry podajemy ³añcuch znaków oraz znak. Funkcja obliczy liczbê wyst¹pieñ danego znaku w ³añcuchu.
+
+3.2. Napisaæ funkcjê która sprawdzi czy dwa podane jako parametry s³owa s¹ anagramami oraz wypisze wszystkie anagramy dla s³owa pierwszego.
+
+3.3. Napisaæ funkcjê, która sprawdzi czy ³añcuch drugi znajduje siê w ³añcuchu pierwszym oraz zwróci wartoœæ int oznaczaj¹c¹ pozycjê ³añcucha drugiego w pierwszym.
+Jeœli ³añcuch drugi nie bêdzie siê znajdowa³ w ³añcuchu pierwszym zwróci wartoœæ -1.
+np. w ³añcuchu "Ala ma kota" funkcja dla ³añcucha "Ala" zwróci 0, dla ³añcucha "kota" zwróci 8 a dla ³añcucha "pies" zwróci -1.
+
+3.4. Napisaæ funkcjê, która usunie co n-ty znak w ³añcuchu. £añcuch oraz n przekazaæ jako parametry.
+np. dla ³añcucha "przyk³ad" i n=2 funkcja zwróci "pzka"
+
+3.5. Gra "wê¿yk" polega na wylosowaniu liczby od 1 do n a nastêpnie wypisywaniu kolejnych liczb naturalnych. W pierwszym wierszu wypisujemy liczby od 1 do n, w kolejnym od n+1 do 2n, jednak od prawej strony itd. (wiersze nieparzyste od lewej do prawej, parzyste od prawej do lewej).
+Przyk³adowo dla n = 7:
+1	2	3	4	5	6	7
+14	13	12	11	10	9	8
+15	16	17	18	19	20	21
+28	27	26	25	24	23	22
+...
+
+Napisaæ program graj¹cy automatycznie w wê¿yka, u¿ytkownik podaje wartoœæ n.
+
+3.6. Jacek postanowi³ siê odchudziæ. Obecnie jest w n-tym dniu diety, jednak jego waga nie spada równomiernie, zdarza siê ku zdziwieniu Jacka ¿e roœnie. Jacek codziennie zapisuje swoj¹ wagê i teraz chcia³by pochwaliæ siê kolegom, wiêc wybiera fragment z swoich zapisów wagi w którym schud³ najwiêcej.
+Program ma znaleŸæ ten fragment dziennika Jacka (w którym schud³ najwiêcej) i wyœwietliæ przedzia³ dni oraz ile schud³ w tym przedziale. Dziennik mo¿e byæ generowany automatycznie.
