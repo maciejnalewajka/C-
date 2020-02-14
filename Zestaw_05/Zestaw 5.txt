@@ -1,0 +1,38 @@
+Do ka¿dej funkcji napisz program sprawdzaj¹cy jej dzia³anie.
+
+5.1. Napisaæ trzy funkcje sortuj¹ce (ka¿da wykorzystuj¹ca inny algorytm sortowania) nastêpnie wygenerowaæ tablicê 1000 elementów i napisaæ program sprawdzaj¹cy czas dzia³ania ka¿dej z funkcji sortuj¹cych. Na wyjœciu wyœwietliæ nazwê algorytmu i czas jego dzia³ania.
+
+
+5.2. Napisaæ program, który tworzy obiekt prostej klasy "Pies". 
+Klasa posiada prywatne pola: 
+- imiê psa, 
+- wiek psa
+oraz publiczne metody:
+- nadaj imiê,
+- wyœwietl imiê,
+- ustal wiek,
+- wyœwietl wiek,
+dodatkowo:
+- utworzyæ konstruktor nadaj¹cy obiektowi imiê i wiek w czasie jego tworzenia.
+
+
+5.3. Napisaæ funkcjê, która porówna ze sob¹ dwa pliki tekstowe. 
+Funkcja zwraca numer linii, w której nast¹pi³a pierwsza ró¿nica, 
+jeœli oba pliki s¹ identyczne zwraca wartoœæ 0.
+Œcie¿ki dostêpu do plików przekazaæ jako parametry funkcji,
+w przypadku podania niew³aœciwej œcie¿ki wyœwietliæ odpowiedni komunikat.
+
+
+5.4. Napisaæ program 'kalkulator' obs³uguj¹cy nastêpuj¹ce operacje:
+- dodawanie,
+- odejmowanie,
+- mno¿enie,
+- dzielenie,
+- potêgowanie,
+- obliczanie reszty z dzielenia liczb ca³kowitych
+
+Na wejœciu:
+- liczby na których wykonujemy dzia³ania,
+- symbol operacji do wykonania (+, -, *, /, ^, %)
+
+Program zabezpieczyæ przed wpisywaniem niew³aœciwych znaków oraz dzieleniem przez zero.

@@ -1,0 +1,21 @@
+4.0. Dla ka¿dego zadania napisaæ program sprawdzaj¹cy jego dzia³anie. Obs³u¿yæ przypadki niew³aœciwego u¿ycia, zg³aszaæ u¿ytkownikowi co zrobi³ Ÿle oraz dane jakiego typu powinien wprowadziæ.
+
+4.1 Program przyjmuje dwie tablice i parametr. W zale¿noœci od parametru zwraca:
+a - czêœæ wspóln¹ obu tablic,
+b - elementy które wystêpuj¹ tylko w tablicy a,
+c - wszystkie elementy obu tablic bez powtórzeñ.
+
+4.2 Napisaæ program wczytuj¹cy z pliku macierz. 
+Nastêpnie napisaæ funkcje które oblicz¹:
+- transpozycjê macierzy
+- wyznacznik
+- macierz odwrotn¹
+Program ma unikaæ kopiowania elementów tablic. Obs³u¿yæ przypadek braku pliku wejœciowego.
+(dla zaawansowanych: utworzyæ klasê macierz z metodami wczytuj¹cymi dane z pliku i wykonuj¹cymi powy¿sze operacje)
+
+4.3 Napisaæ program obliczaj¹cy sumê n pierwszych wyrazów ci¹gu harmonicznego.
+1 + 1/2 + 1/3 + 1/4 + ... + 1/n 
+gdzie wartoœæ n podajemy z klawiatury.
+
+4.4 Napisaæ program wypisuj¹cy statystykê wyst¹pieñ znaków w podanym z klawiatury tekœcie.
+Rozmiar znaku nie ma znaczenia. Podajemy statystykê tylko tych liter, które wyst¹pi³y w podanym tekœcie.
