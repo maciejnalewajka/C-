@@ -1,0 +1,23 @@
+7.0 Dla ka¿dego zadania napisaæ program sprawdzaj¹cy jego dzia³anie.
+
+7.1 Wygenerowaæ tablicê o wielkoœci równej tysi¹c gdzie ka¿dy element to punkt na p³aszczyŸnie dwuwymiarowej. Nastêpnie napisaæ funkcje która usunie powtarzaj¹ce siê punkty. Ka¿dy punkt przedstawiæ jako dwie wartoœci X i Y typu integer, ograniczyæ ich generowanie do zakresu np. 800x600. Funkcja zwraca oczyszczon¹ z powtarzaj¹cych siê punktów tablicê oraz wyœwietla liczê punktów które siê powtarza³y.
+
+7.2 Napisaæ program testuj¹cy Hipotezê Goldbacha, która mówi ¿e ka¿d¹ liczbê naturaln¹ wiêksz¹ od jeden mo¿na przedstawiæ jako sumê dwóch liczb pierwszych. 
+Dla kolejnych liczb powinien wypisywaæ:
+2 = 1 + 1
+3 = 2 + 1
+4 = 2 + 2
+5 = 3 + 2
+6 = 3 + 3
+itd. a¿ znajdzie liczbê która nie spe³nia tej hipotezy lub do liczby n podanej przez u¿ytkownika.
+
+7.3 Napisaæ program który obliczy silnie podwójn¹, która jest zdefiniowana nastêpuj¹co:
+1 dla n=0,1,
+n(n-2)!! n>=2
+
+7.4 Napisaæ program obliczaj¹cy wartoœæ innych funkcji (tj. ln, sin, exp) metod¹ sumowania szeregu. Sumowanie koñczy siê po zsumowaniu n wyrazów gdzie n jest podane przez u¿ytkownika. Sprawdziæ ile wyrazów nale¿y zsumowaæ aby uzyskaæ dok³adnoœæ wyniku na poziomie 1%. 
+
+7.5 £amacz hase³. 
+Napisaæ program s³u¿¹cy do weryfikacji hase³, który pobiera od u¿ytkownika login i has³o a¿ do momentu, gdy wpisane dane umo¿liwi¹ dostêp do systemu. Nastêpnie u¿ytkownik podaje tekst który zostanie zapisany a dostêp do niego bêdzie mo¿liwy tylko po podaniu has³a. 
+Napisaæ funkcjê która spróbuje z³amaæ has³o i wyœwietli zabezpieczony wczeœniej tekst oraz odgadniête has³o.
+Opcjonalnie: niech program zapisze wprowadzony przez u¿ytkownika tekst w zabezpieczonym has³em pliku ZIP lub 7z.

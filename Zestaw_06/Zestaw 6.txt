@@ -1,0 +1,31 @@
+6.0 Do ka¿dego zadania napisaæ program sprawdzaj¹cy jego dzia³anie.
+
+6.1 Napisaæ klasê Mammal z chronionymi polami wiek i waga oraz publicznymi metodami do ustawiania i pobierania tych pól.
+Nastêpnie napisaæ klasy Pies i Kot dziedzicz¹ce po klasie Mammal, do klas tych dodaæ po jednej nowej metodzie.
+W funkcji main() utworzyæ obiekty tych klas oraz wywo³aæ ich metody.
+
+6.2 Projekt wieloplikowy. Podobnie jak w zadaniu 5.4 napisaæ program 'kalkulator' obs³uguj¹cy nastêpuj¹ce operacje: 
+- dodawanie,
+- odejmowanie,
+- mno¿enie,
+- dzielenie,
+- potêgowanie,
+Ka¿da operacja ma byæ wykonywana przez osobn¹ funkcjê. Ka¿d¹ funkcjê umieœciæ w osobnym pliku.
+
+6.3 Napisaæ program pomagaj¹cy w nauce tabliczki mno¿enia.
+Program pozwala na wyœwietlenie tabliczki do n.
+Program posiada tryb nauki gdzie zadaje u¿ytkownikowi pytanie np. :
+4x5 ?
+>>> 30 
+Ÿle
+>>> 35
+Ÿle
+itd. a¿ do wpisania poprawnej wartoœci.
+W trybie nauki wyœwietlona wczeœniej tabliczka znika.
+
+6.4 Konwerter systemów liczbowych.
+Napisaæ program pozwalaj¹cy przekonwertowaæ liczbê z jednego systemu liczbowego na drugi.
+np. z dziesiêtnego na dwójkowy, z trójkowego na pi¹tkowy
+Na wejœciu program pyta siê u¿ytkownika z jakiego systemu na jaki system liczbowy ma byæ wykonana konwersja.
+Przed wprowadzeniem liczby program ma wyœwietliæ przyk³adow¹ konwersjê oraz sprawdzaæ czy u¿ytkownik poprawnie wprowadzi³ liczbê.
+Dodaæ mo¿liwoœæ wyœwietlenia podanej przez u¿ytkownika liczby we wszystkich systemach od jedynkowego do dwudziestkowego.
