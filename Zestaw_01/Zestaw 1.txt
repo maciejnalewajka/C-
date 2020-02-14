@@ -1,0 +1,35 @@
+1.1. Napisaæ program, który wyœwietli wartoœæ bezwzglêdn¹ z podanej przez u¿ytkownika liczby.
+
+1.2. Napisaæ program, który wyœwietli sumê, ró¿nicê, iloczyn i iloraz dwóch podanych przez u¿ytkownika liczb z dok³adnoœci¹ do dwóch miejsc po przecinku.
+
+1.3. Napisaæ program, który wyœwietli sumê, ró¿nicê, iloczyn i iloraz dwóch podanych przez u¿ytkownika liczb z dok³adnoœci¹ do n miejsc po przecinku (n wprowadza u¿ytkownik).
+
+1.4. Napisaæ program, który obliczy pole i obwód danej figury. U¿ytkownik wybiera w pierwszej kolejnoœci figurê (prostok¹t, trójk¹t, ko³o, trapez) a nastêpnie podaje potrzebne informacje (d³ugoœci boków, promieñ, itp).
+
+1.5. Napisaæ program, który wczyta z klawiatury 6 liczb rzeczywistych a nastêpnie wyœwietli informacje:
+- która z nich jest najmniejsza i najwiêksza
+- ile z nich jest mniejszych od zera
+- uporz¹dkuje je rosn¹co
+- œredni¹ arytmetyczn¹
+- sprawdzi czy któraœ z nich siê powtarza, jeœli tak to wyœwietli j¹ i ile razy siê powtórzy³a.
+
+1.6. Napisaæ program, który zamieni podan¹ przez u¿ytkownika liczbê (od 1 do 12) na nazwê miesi¹ca, nastêpnie zamieni liczbê (od 1 do 7) na nazwê dnia tygdnia i wyœwietli obie wartoœci. Dodaæ obs³ugê wartoœci spoza zakresów.
+
+1.7. Napisaæ program, który w zale¿noœci od wyboru u¿ytkownika przeliczy wartoœæ podan¹ w centymetrach na cale i odwrotnie.
+
+1.8. Napisaæ program który pobiera od u¿ytkownika liczbê ca³kowit¹ N a nastêpnie wyœwietla na ekranie N gwiazdek (znak *).
+
+1.9. Napisaæ program, który narysuje na ekranie trójk¹t równoramienny ze znaków podanych przez u¿ytkownika o d³ugoœci podstawy zadanej przez u¿ytkownika.
+np. d³ugoœæ podstawy = 7, znak = @
+(przyk³ad w za³¹czniku)
+
+1.10. Napisaæ program, który wyœwietli wszystkie liczby ca³kowite z zakresu od 0 do 100 typu int podzielne bez reszty przez podan¹ przez u¿ytkownika liczbê.
+
+1.11. Napisaæ program, który bêdzie losowa³ 100 liczb ca³kowitych. W trakcie losowania bêdzie na bie¿¹co oblicza³ sumy liczb parzystych i nieparzystych oraz wartoœæ najwiêksz¹ i najmniejsz¹. Na koniec wyœwietli komunikat:
+"Najwiêksza wartoœæ to {X}, najmniejsza wartoœæ to {X}, suma wszystkich liczb parzystych to {X}, nieparzystych to {X}" gdzie znak {X} nale¿y zast¹piæ wyliczonymi wartoœciami. 
+
+1.12. Napisaæ funkcje maksimum(int a, int b) zwracaj¹c¹ wartoœæ maksymaln¹ spoœród jej argumentów oraz funkcje minimum(int a, int b) zwracaj¹c¹ wartoœæ minimaln¹.
+
+1.13. Napisaæ funkcjê void suma(a, b, c) która obliczy sumê wartoœci a oraz b i zapisze je w c.
+
+Dla ka¿dej z funkcji napisaæ program sprawdzaj¹cy jej dzia³anie.
